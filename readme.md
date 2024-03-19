@@ -1,3 +1,5 @@
+### Temporary forked repository created for personal use with support for Laravel 11. May not work correctly or may be missing dependencies. It is recommended not to use.
+
 ## Laravel SQL Logger
 
 [![Packagist](https://img.shields.io/packagist/dt/mnabialek/laravel-sql-logger.svg)](https://packagist.org/packages/mnabialek/laravel-sql-logger)
